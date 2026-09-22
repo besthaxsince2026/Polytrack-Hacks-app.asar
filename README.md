@@ -13,7 +13,7 @@ This is a hack for polytrack to slow your game down for cracked times
 
 **5** unzip the file and click on resources in the polytrack map
 
-**6** download my app.asar and replace it with the existing one 
+**6** download my app.asar and rename the old one to Normal_app.asar or Original_app.asar or something and place my app.asar and make sure it is called **app.asar**
 
 **7** go back and start Polytrack.exe
 
